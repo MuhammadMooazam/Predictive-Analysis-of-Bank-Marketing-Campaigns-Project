@@ -1,1 +1,1 @@
-# Predictive-Analysis-of-Bank-Marketing-Campaigns-Project
+# Predictive Analysis of Bank Marketing Campaigns Project
